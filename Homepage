@@ -1,0 +1,51 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>H-Thai-ML</title>
+    <link rel="stylesheet" href="assets/css/style.css" type="text/css">
+</head>
+<body>
+
+    <main>
+        <!-- HOME PAGE -->
+    <!-- Navbar starts here -->
+    <div class="navbar">
+        <ul class="navLinks">
+          <li><a href=".menu"class="current page">MENU</a></li>
+          <li><a href=".location">LOCATION</a></li>
+          <li><a href=".hours">HOURS</a></li>
+          <li><a href=".social">SOCIAL MEDIA</a></li>
+        </ul>
+      </div>
+    <!-- Navbar ends here -->
+    <div class="banner">
+        <p>We will be closed on the next upcoming holiday. Stay tuned for more details!</p>
+    </div>
+
+
+    <!-- Banner -->
+    <img src="assets/images/banner.png" alt="H-Thai-ML">
+    
+    <h1>Welcome to <span style="color: #ff6347;">H-Thai-Ml</span></h1>
+    <h2>Indulge in flavors that dance on your taste buds!</h2>
+    <div  class="service">
+        <h3>Dine In</h3>
+        <p>Enjoy our delightful dishes in a cozy and inviting atmosphere.</p>
+    </div>
+
+    <div  class="service">
+        <h3>Take Out</h3>
+        <p>Savor our yummy offerings from the comfort of your home.</p>
+    </div>
+
+    <div  class="service">
+        <h3>Delivery</h3>
+        <p>Let the flavors come to you! We offer convenient and fast delivery.</p>
+    </div>
+
+        <!-- TODO: Home page code here-->
+    </main>
+</body>
+</html>
